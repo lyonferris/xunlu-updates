@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "url": "https://cdn.jsdelivr.net/gh/lyonferris/xunlu-updates@main/dist-1.0.16.zip",
-  "checksum": "068eb64f2628b017b649f482b6565433f97d8d544fd4f1e2cb0600cb50b97ff9",
-  "publishedAt": "2026-10-25T07:23:41.617Z",
-  "signature": "MEUCIESh4NES4zKXh3RICZzLz0CRog/1XgtbBzgE1BdsGZaGAiEA4/PTEWdn9rer8w1AAU2zVGqG1ZwEseEhL2Uu89uNe6Q="
+  "version": "1.0.17",
+  "url": "https://cdn.jsdelivr.net/gh/lyonferris/xunlu-updates@main/dist-1.0.17.zip",
+  "checksum": "2bb80ad857a24bb471cb4f31a152c8a6d9287dda3e4fb5d558cd751db0014fcf",
+  "publishedAt": "2026-11-04T03:20:39.441Z",
+  "signature": "MEUCIEAGBKzAy+MRjOmOpEZyHeFt6iYL5NlaQwFYG7IkbaOwAiEA017yfIJ6MZc9s/X4tLPbkt3aATE2Z3I15n4wBIiNOnI="
 }
